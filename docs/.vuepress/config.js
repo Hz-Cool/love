@@ -1,6 +1,6 @@
 module.exports = {
     title: "Hz-Cool",
-    base: '/blog/',
+    base: '/love/',
     description: '怕什么真理无穷,进一寸有一寸的欢喜！',
     head: [
         ['link', { rel: 'icon', href: './favicon.ico' }],

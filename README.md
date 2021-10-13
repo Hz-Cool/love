@@ -1,5 +1,7 @@
 # love
 
+https://hz-cool.github.io/love/
+
 ```base
 echo "# love" >> README.md
 git init
